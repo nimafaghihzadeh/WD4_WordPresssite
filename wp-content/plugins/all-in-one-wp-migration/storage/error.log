@@ -1,0 +1,6 @@
+Jun 11 2021 03:54:49
+{"type":8192,"message":"Required parameter $series_id follows optional parameter $level","file":"C:\\xampp\\htdocs\\wordpress\\wordpress\\wp-content\\plugins\\seriously-simple-podcasting\\php\\includes\\ssp-functions.php","line":508}
+
+Jun 11 2021 03:54:51
+{"type":8192,"message":"Required parameter $series_id follows optional parameter $level","file":"C:\\xampp\\htdocs\\wordpress\\wordpress\\wp-content\\plugins\\seriously-simple-podcasting\\php\\includes\\ssp-functions.php","line":508}
+

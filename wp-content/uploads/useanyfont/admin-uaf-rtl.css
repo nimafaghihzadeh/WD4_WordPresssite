@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'heebo';
+					src: url('/wordpress/wordpress/wp-content/uploads/useanyfont/3795Heebo.woff2') format('woff2'),
+						url('/wordpress/wordpress/wp-content/uploads/useanyfont/3795Heebo.woff') format('woff');
+				}
+
+				.heebo{font-family: 'heebo' !important;}
+
+				.et_gf_heebo{background:none !important;font-family:heebo;text-indent:0 !important;font-size:25px;}
+
+		
